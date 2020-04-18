@@ -8,6 +8,7 @@ import { SpotifyService } from 'src/app/services/spotify.service';
 })
 export class SearchComponent {
 
+  // Solo un comentario para meter una nueva branch
   loading: boolean;
   artists: any[] = [];
 
